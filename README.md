@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+Cytometry in R
+Location: Mumbai
+My favorite Flurophore : Spark Blue 550
 <!--
 **Shan08001/Shan08001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
